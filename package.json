@@ -1,0 +1,12 @@
+{
+  "name": "desafio-unidade-2",
+  "version": "1.0.0",
+  "description": "<h4 align=\"center\">  \t🚧 Calculadora de frete 🚧 </h4>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
